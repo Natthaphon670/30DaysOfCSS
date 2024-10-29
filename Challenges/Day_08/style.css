@@ -14,7 +14,7 @@ body{
   
   .thing {
     width: 40px;
-    height: 60px;
+    height: 20px;
     background: #722cc2;
     margin: 0 3px;
     border-radius: 30px;
@@ -28,13 +28,13 @@ body{
     }
 
     25%{
-        height: 20px;
+        height: 40px;
       }
     50%{
-      height: 40px;
+      height: 60px;
     }
     75%{
-        height: 60px;
+        height: 120px;
       }
     100%{
       height: 0;
